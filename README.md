@@ -9,6 +9,6 @@ model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-2.set batch_size = 32
+2. Set batch_size = 32
 
-3.Increase the number of training epochs from 20 to 50 or 100
+3. Increase the number of training epochs from 20 to 50 or 100
