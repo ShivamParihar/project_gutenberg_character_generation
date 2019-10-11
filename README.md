@@ -1,5 +1,7 @@
 # project_gutenberg_character_generation
 
+**Improving the model**
+
 1. Keep the number of memory units the same at 256, but add a second layer.
 
 ```
