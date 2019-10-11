@@ -17,3 +17,5 @@ model.compile(loss='categorical_crossentropy', optimizer='adam')
 2. Set batch_size = 64 or 32
 
 3. Increase the number of training epochs from 20 to 50 or 100
+
+link - https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
